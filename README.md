@@ -1,2 +1,2 @@
 # In construction
-This is the repository for the article: MetaD-MLP: A Robust Meta-Dataset of Machine Learning Pipelines, submitted in IJCNN 2025.
+This is the repository for the article: Pipes: Machine Learning Pipelines Meta-Dataset, submitted in IJCNN 2025.
